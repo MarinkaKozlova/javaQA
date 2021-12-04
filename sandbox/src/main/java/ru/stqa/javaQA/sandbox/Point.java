@@ -11,3 +11,4 @@ public static void main (String [] args) {
         return Math.sqrt((P.p3-P.p1)*(P.p3-P.p1)+(P.p4-P.p2)*(P.p4-P.p2));
     }
 }
+
